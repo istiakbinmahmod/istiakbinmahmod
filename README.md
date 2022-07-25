@@ -29,6 +29,6 @@ Hello there! 4th year CS undergrad student at BUET. Plan to start as a Software 
 
 ## Contact ##
 <p align="center">
-<a href="masumk086@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-masumk086@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="masumk086@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-masumk086-red?style=flat&logo=gmail"></a>
 <a href="https://www.facebook.com/istiakbin.mahmud/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Istiak Bin Mahmod-blue?style=flat&logo=facebook"></a>
 </p>
