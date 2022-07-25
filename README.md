@@ -1,16 +1,34 @@
-<!--
-### Hi there 👋
+## Istiak Bin Mahmod ##
+---
 
-**istiakbinmahmod/istiakbinmahmod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+Hello there! 4th year CS undergrad student at BUET. Plan to start as a Software Engineer in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Data Structures & Algorithms
+- Web development
+
+
+### Technology Stack ###
+- General Purpose : 
+   C/C++, Java, Python, Node.js
+
+- Databases : 
+   MongoDB, Oracle PL/SQL
+
+- Backend:
+   Express.js, Django
+   
+- Front End : 
+  HTML, CSS, React.js
+
+- Tools:
+   Git, Docker, GitKraken
+  
+
+## Contact ##
+<p align="center">
+<a href="masumk086@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-masumk086@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="https://www.facebook.com/istiakbin.mahmud/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Istiak Bin Mahmod-blue?style=flat&logo=facebook"></a>
+</p>
