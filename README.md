@@ -32,4 +32,5 @@ Hello there! 4th year CS undergrad student at BUET. Plan to start as a Software 
 <a href="mailto:masumk086@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-masumk086@gmail.com-red?style=flat&logo=gmail"></a>
 <a href="mailto:istiakmahmod842@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-istiakmahmod842@gmail.com-red?style=flat&logo=gmail"></a>
 <a href="https://www.facebook.com/istiakbin.mahmud/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Istiak Bin Mahmod-blue?style=flat&logo=facebook"></a>
+<a href="https://www.linkedin.com/in/istiak-bin-mahmud-468755176/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Istiak Bin Mahmod-blue?style=flat&logo=linkedin"></a>
 </p>
