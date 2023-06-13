@@ -25,6 +25,9 @@ Feel free to contact me via email : istiakmahmod842@gmail.com
 
 - Tools:
    Git, Docker, GitKraken
+
+- Miscellaneous:
+   LaTex, MS Office
   
 
 ## Contact ##
