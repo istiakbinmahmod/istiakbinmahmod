@@ -3,22 +3,22 @@
 
 ### About Me
 
-Hello there! 4th year CS undergrad student at BUET. Plan to start as a Software Engineer in the future.
+Hello there! CS graduate from BUET. Plan to start as a Software Engineer in the future.
+Feel free to contact me. Email : <a href="mailto:istiakmahmod842@gmail.com">istiakmahmod842@gmail.com</a>
 
 ### Interests
-- Data Structures & Algorithms
-- Web development
+- Machine Learning
 
 
 ### Technology Stack ###
 - General Purpose : 
-   C/C++, Java, Python, Node.js
+   C/C++, Java, Python, Javascript
 
 - Databases : 
    MongoDB, Oracle PL/SQL
 
 - Backend:
-   Express.js, Django
+   Node.js, Express.js, Django
    
 - Front End : 
   HTML, CSS, React.js
