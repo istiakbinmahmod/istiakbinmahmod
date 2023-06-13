@@ -4,7 +4,9 @@
 ### About Me
 
 Hello there! CS graduate from BUET. Plan to start as a Software Engineer in the future.
-Feel free to contact me via email (istiakmahmod842@gmail.com) or other social media (link below)
+
+Feel free to contact me via email (istiakmahmod842@gmail.com) or other social media (link below).
+
 My Portfolio Website : <a href="http://istiakbinmahmod.github.io">[Link]</a>
 
 ### Interests
