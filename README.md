@@ -30,7 +30,7 @@ My Portfolio Website : <a href="http://istiakbinmahmod.github.io">[Link]</a>
    Git, Docker, GitKraken
 
 - Miscellaneous:
-   LaTex, MS Office
+   LaTex, MS Office(:3)
   
 
 ## Contact ##
