@@ -3,7 +3,7 @@
 
 ### About Me
 
-Hello there! CS graduate from BUET. Plan to start as a Software Engineer in the future.
+Hello there! CS graduate from BUET. Currently working as Assistant Software Engineer at Computer Network Systems(CNS) Limited.
 
 Feel free to contact me via email (istiakmahmod842@gmail.com) or other social media (link below).
 
