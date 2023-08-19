@@ -3,7 +3,7 @@
 
 ### About Me
 
-Hello there! CS graduate from BUET. Currently working as Assistant Software Engineer at Computer Network Systems(CNS) Limited.
+Hello there! CS graduate from BUET. Hopefully, I will join as a Software Engineering Intern at Optimizely.
 
 Feel free to contact me via email (istiakmahmod842@gmail.com) or other social media (link below).
 
