@@ -7,8 +7,8 @@ Hello there! CSE graduate from BUET. I am now working as a Software Engineering 
 
 Feel free to contact me via below emails.
 
-- <a href="mailto:istiakmahmod842@gmail.com">istiakmahmod842 at gmail dot com</a>
-- <a href="mailto:istiak.mahmod@optimizely.com">istiak dot mahmod at optimizely dot com</a>
+- Personal Email : <a href="mailto:istiakmahmod842@gmail.com">istiakmahmod842 at gmail dot com</a>
+- Work Email : <a href="mailto:istiak.mahmod@optimizely.com">istiak dot mahmod at optimizely dot com</a>
 
 My Portfolio Website : <a href="http://istiakbinmahmod.github.io">[Link]</a>
 
