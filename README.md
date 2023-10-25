@@ -5,7 +5,10 @@
 
 Hello there! CSE graduate from BUET. I am now working as a Software Engineering Intern @ Optimizely. Before that, I worked as Assistant Software Engineer @ CNS Limited. 
 
-Feel free to contact me via email (istiakmahmod842@gmail.com | personal OR istiak dot mahmod at optimizely dot com | work email)  or other social media (link below).
+Feel free to contact me via below emails.
+
+- <a href="mailto:istiakmahmod842@gmail.com">istiakmahmod842 at gmail dot com</a>
+- <a href="mailto:istiak.mahmod@optimizely.com">istiak dot mahmod at optimizely dot com</a>
 
 My Portfolio Website : <a href="http://istiakbinmahmod.github.io">[Link]</a>
 
