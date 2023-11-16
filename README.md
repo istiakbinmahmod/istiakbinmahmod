@@ -7,8 +7,8 @@ Hello there! <code>CSE</code> graduate from <code>BUET</code>. I am now working 
 
 Feel free to contact me via below emails.
 
-- Personal Email : <a href="mailto:istiakmahmod842@gmail.com">istiakmahmod842 at gmail dot com</a>
-- Work Email : <a href="mailto:istiak.mahmod@optimizely.com">istiak dot mahmod at optimizely dot com</a>
+- Personal Email : <code><a href="mailto:istiakmahmod842@gmail.com">istiakmahmod842 AT gmail DOT com</a></code>
+- Work Email : <code><a href="mailto:istiak.mahmod@optimizely.com">istiak DOT mahmod AT optimizely DOT com</a></code>
 
 My Portfolio Website : <code><a href="http://istiakbinmahmod.github.io">istiakbinmahmod DOT github DOT io</a></code>
 
