@@ -3,7 +3,7 @@
 
 ### About Me
 
-Hello there! CSE graduate from BUET. I am now working as a Software Engineering Intern @ Optimizely. Before that, I worked as Assistant Software Engineer @ CNS Limited. 
+Hello there! CSE graduate from BUET. I am now working as a <mark>Software Engineering Intern</mark> @ <mark>[Optimizely](https://www.optimizely.com/)</mark>. Before that, I worked as Assistant Software Engineer @ CNS Limited. 
 
 Feel free to contact me via below emails.
 
