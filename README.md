@@ -1,6 +1,8 @@
 ## Istiak Bin Mahmod ##
 ---
 
+### Hi there 👋, my No.![Visitor Count](https://profile-counter.glitch.me/nibtehaz/count.svg) visitor!
+
 ### About Me
 
 Hello there! <code>CSE</code> graduate from <code>BUET</code>. I am now working as a <code>Software Engineering Intern</code> @ <code>Optimizely</code>. Before that, I worked as <code>Assistant Software Engineer</code> @ <code>CNS Limited</code>. 
