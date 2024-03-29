@@ -20,22 +20,22 @@ My Portfolio Website : <code><a href="http://istiakbinmahmod.github.io">istiakbi
 
 ### Technology Stack ###
 - General Purpose : 
-   C/C++, Java, Python, Javascript
+   Python, Java, C/C++, Javascript
 
 - Databases : 
-   MongoDB, Oracle PL/SQL
+   MySQL, MongoDB, Oracle PL/SQL
 
 - Backend:
-   Node.js, Express.js, Django
+   Flask, Spring Boot, Node.js, Express.js, Django
    
 - Front End : 
-  HTML, CSS, React.js
+  HTML, CSS, React.js, Vue.js
 
 - Tools:
-   Git, Docker, GitKraken
+   Git, Docker, GitKraken, Jira
 
 - Miscellaneous:
-   LaTex, MS Office(:3)
+   LaTex, MS Office(nvm:3)
   
 
 ## Contact ##
