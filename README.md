@@ -5,7 +5,7 @@
 
 ### About Me
 
-Hello there! <code>CSE</code> graduate from <code>BUET</code>. I am now working as <code>Software Engineer</code> @ <code>Optimizely</code>. Before that, I worked as <code>Assistant Software Engineer</code> @ <code>CNS Limited</code>. 
+Hello there! <code>CSE</code> graduate from <code>BUET</code>. I am now working as <code>Software Engineer</code> @ <code><a href="https://www.optimizely.com/">Optimizely</a></code>. Before that, I worked as <code>Assistant Software Engineer</code> @ <code><a href="https://site.cnsbd.com/">CNS Limited</a></code>. 
 
 Feel free to contact me via below emails.
 
