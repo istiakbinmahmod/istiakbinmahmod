@@ -35,7 +35,7 @@ My Portfolio Website : <code><a href="http://istiakbinmahmod.github.io">istiakbi
    Git, Docker, GitKraken, Jira
 
 - Miscellaneous:
-   LaTex, MS Office(nvm:3)
+   LaTex
 
 ##
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=istiakbinmahmod&show_icons=true&locale=en&layout=compact" alt="istiakbinmahmod" width="495"/></p>
