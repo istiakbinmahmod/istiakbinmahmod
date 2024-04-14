@@ -5,14 +5,14 @@
 
 ### About Me
 
-Hello there! <code>CSE</code> graduate from <code>BUET</code>. I am now working as <code>Software Engineer</code> @ <code><a href="https://www.optimizely.com/">Optimizely</a></code>. Before that, I worked as <code>Assistant Software Engineer</code> @ <code><a href="https://site.cnsbd.com/">CNS Limited</a></code>. 
+Hello there! `CSE` graduate from `BUET`. I am now working as `Software Engineer` @ <code><a href="https://www.optimizely.com/">Optimizely</a></code>. Before that, I worked as `Assistant Software Engineer` @ <code><a href="https://site.cnsbd.com/">CNS Limited</a></code>. 
 
 Feel free to contact me via below emails.
 
 - Personal Email : <code><a href="mailto:istiakmahmod842@gmail.com">istiakmahmod842 AT gmail DOT com</a></code>
-- Work Email : <code><a href="mailto:istiak.mahmod@optimizely.com">istiak DOT mahmod AT optimizely DOT com</a></code>
+- Work Email : <code><a href="mailto:Istiak.Mahmod@optimizely.com">Istiak DOT Mahmod AT optimizely DOT com</a></code>
 
-My Portfolio Website : <code><a href="http://istiakbinmahmod.github.io">istiakbinmahmod DOT github DOT io</a></code>
+My Portfolio Website : <code><a href="http://istiakbinmahmod.github.io">istiakbinmahmod.github.io</a></code>
 
 ### Interests
 - Machine Learning
