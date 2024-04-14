@@ -36,6 +36,11 @@ My Portfolio Website : <code><a href="http://istiakbinmahmod.github.io">istiakbi
 
 - Miscellaneous:
    LaTex, MS Office(nvm:3)
+
+##
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=istiakbinmahmod&show_icons=true&locale=en&layout=compact" alt="istiakbinmahmod" width="495"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=istiakbinmahmod&" alt="istiakbinmahmod" /></p>
   
 
 ## Contact ##
