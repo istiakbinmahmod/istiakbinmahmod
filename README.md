@@ -20,22 +20,22 @@ My Portfolio Website : <code><a href="http://istiakbinmahmod.github.io">istiakbi
 
 ### Technology Stack ###
 - General Purpose : 
-   Python, Java, C/C++, Javascript
+   `Python`, `Java`, `C/C++`, `Javascript`
 
 - Databases : 
-   MySQL, MongoDB, Oracle PL/SQL
+   `MySQL`, `MongoDB`, `Oracle PL/SQL`
 
 - Backend:
-   Flask, Spring Boot, Node.js, Express.js, Django
+   `Flask`, `Spring Boot`, `Node.js`, `Express.js`, `Django`
    
 - Front End : 
-  HTML, CSS, React.js, Vue.js
+  `HTML`, `CSS`, `React.js`, `Vue.js`
 
 - Tools:
-   Git, Docker, GitKraken, Jira
+   `Git`, `Docker`, `GitKraken`, `Jira`
 
 - Miscellaneous:
-   LaTex
+   `LaTex`
 
 ##
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=istiakbinmahmod&show_icons=true&locale=en&layout=compact" alt="istiakbinmahmod" width="495"/></p>
