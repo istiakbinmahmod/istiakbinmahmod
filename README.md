@@ -1,7 +1,7 @@
 ## Istiak Bin Mahmod ##
 ---
 
-### Hi there 👋, my No.![Visitor Count](https://profile-counter.glitch.me/istiakbinmahmod/count.svg) visitor!
+<!-- ### Hi there 👋, my No.![Visitor Count](https://profile-counter.glitch.me/istiakbinmahmod/count.svg) visitor! -->
 
 ### About Me
 
